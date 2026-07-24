@@ -997,18 +997,22 @@ label {
     flex-wrap: wrap;
     gap: 20px;
   }
+  
   .whyus-card {
     width: 100%;
   }
+  
   .reviews-container {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
     gap: 20px;
   }
+  
   .reviews-card {
     width: 100%;
   }
+  
   .header1 {
     margin-top: 30px;
     color: var(--text-light);

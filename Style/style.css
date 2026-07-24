@@ -1008,6 +1008,7 @@ label {
     color: var(--text-light);
     font-size: 50px;
   }
+  
   .best-sellers-spotlight {
     display: flex;
     flex-direction: column;

@@ -300,7 +300,7 @@ p,
 /* Full-screen intro area with overlay content and CTA. */
 .hero-section {
   background-color: var(--bg-hero);
-  background: url("../Images/hero.png") center center/cover no-repeat;
+  background: url("../images/hero.png") center center/cover no-repeat;
   height: 100vh;
   background-repeat: no-repeat;
 }
